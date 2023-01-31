@@ -8,7 +8,7 @@ from sklearn.model_selection import train_test_split
 from sklearn import tree
 
 
-df = pd.read_csv(r"D:\yiguohuang\people\code_people\bank-full_2.csv")
+df = pd.read_csv(r"你的csv文件路径")
 # print(df.info()) # RangeIndex: 45211 entries, 0 to 45210
 # 观察数据集信息
 # print(df.head())
